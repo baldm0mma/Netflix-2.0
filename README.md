@@ -1,17 +1,6 @@
 # BetterFlix
 
 
-## Table of Contents
-* [Available Scripts](#Available-Scripts)
-* [Description](#Description)
-* [Project Successes](Project-Successes)
-* [Project Challenges](Project-Challenges)
-* [ Project Extensions/Issues](Project-Extensions/Issues)
-* [Project Tech Emphasis](Project-Tech-Emphasis)
-* [Project Management](Project-Management)
-* [Project Comps](Project-Comps)
-* [Developers](Developers)
-
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
