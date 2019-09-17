@@ -1,29 +1,5 @@
 # BetterFlix
 
-
-## Available Scripts
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-## Test Coverage
-
-![Test Coverage](./src/images/test-coverage.png)
-
 ## Description
 
 This project is a movie app that allows the user to see now playing, popular, and currently top rated movies. The user can also select a genre to see all of the recommended movies in that genre. Once the user is logged in to their account and viewing movies, they can select a movie to see more information about the movie or favorite the movie. All of their favorite movies will be stored and are viewable upon re-login. If the user does not see a movie they are looking for, they can search for a specific movie. This project was completed in a week.
@@ -67,6 +43,29 @@ The team used a project management tool, Trello, and GitHub issues to manage wor
 ### Trello Board
 
 ![Trello](./src/images/trello-board.png)
+
+## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+## Test Coverage
+
+![Test Coverage](./src/images/test-coverage.png)
 
 ## Project Comps:
 
